@@ -100,3 +100,5 @@ public class MainActivity extends AppCompatActivity implements AddCityFragment.A
                         Log.e("Firestore", "Error saving city", e));
     }
 }
+
+//Citation: https://claude.ai/share/54b75230-f54f-4f97-8d6a-69b21567d179
